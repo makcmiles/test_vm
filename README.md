@@ -1,5 +1,7 @@
 «Create Ubuntu 20.04 VM»
-create vm from vagrant
+
+Сreate vm from vagrant
+
 Обновление ядра 
 1. uname -r
 5.4.0-164-generic 
